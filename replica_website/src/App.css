@@ -1,0 +1,232 @@
+/* the style i added to my navbar */
+.Move{
+  background-color: rgb(80, 80, 80);
+  border-left: 2rem;
+  border-top: 2rem;
+ padding-left:20px;
+ padding-right: 20px;
+ 
+}
+
+/* the style i added to links in my navbar */
+.me-auto{
+  align-items: center;
+  justify-content: space-between;
+  gap:2rem;
+  font-size:14px;
+}
+
+
+/* the background image styles */
+.head-img{
+  width: 76.5rem;
+  height:29rem;
+  opacity: 0.7;
+}
+
+/* the massive characters style */
+.Zoro{
+  height:29rem;
+  position:absolute;
+  top: 3.3rem;
+  right:4rem
+}
+
+/* the pirate symbol styles */
+.skull-cap{
+  position: absolute;
+  top:11rem;
+  right:60.6rem;
+  height:60px
+}
+
+/* the styles of my searchbar */
+.search{
+  position:absolute;
+  border-radius: 30px;
+  height:50px;
+  width: 31rem;
+  top:16rem;
+  right:42rem;
+  border:none
+}
+
+.Icon{
+  height:3.2rem;
+  position:absolute;
+  top:16rem;
+  right:37rem;
+  width:4rem;
+  border-radius: 30px;
+}
+
+/* the style of my magnifying glass */
+.fan-favorite{
+  color:grey;
+  position:absolute;
+  top:21rem;
+  right:44rem;
+  font-size:15px
+}
+
+/* the style i added to top search */
+.awk{
+  color:white;
+  font-weight:400;
+}
+
+/* the style i added to the green button */
+.Site{
+  position: relative;
+  left: 8rem;
+  width:65rem;
+  color:black;
+  background-color:rgb(100, 187, 100);
+  height:3.5rem;
+  border:none;
+  border-radius:30px;
+}
+
+/* the style i added at information.jsx */
+.edit{
+  color:white;
+  margin-left:5rem;
+  font-size: 14px;
+}
+
+/* the style i added at information.jsx */
+.edit2{
+  color:white;
+  margin-top: 2rem;
+  margin-left:4rem
+}
+
+/* the style i added at information.jsx */
+.edit-me{
+  color: white;
+  font-size:1.8em;
+  margin-left: 5rem;
+}
+
+/* the style i added at "trending posts" */
+.Posts{
+  color:white;
+  font-size: 1.8em;
+}
+
+/* the style i added at "trending posts" */
+.Trending{
+  margin-top: 2.5rem;
+  border:1px solid black;
+  border-radius:15px;
+  color:white;
+  background-color:rgb(53, 52, 52);
+  border:none
+}
+
+/* the style i added at "trending posts" */
+.Trending1{
+  margin-top: 0.5rem;
+  border:1px solid black;
+  border-radius: 15px;
+  color:white;
+  background-color:rgb(53, 52, 52) ;
+  border:none;
+}
+
+/* the style i added at "trending posts" */
+.Read-more{
+  width:22rem;
+  border-radius: 30px;
+  color:white;
+  background-color: rgb(53, 52, 52);
+}
+
+/* the style i added at "trending posts" */
+.gen{
+font-size: small;
+margin-left: 2rem;
+}
+
+/* the style i added at "trending posts" */
+.Disc{
+font-size: small;
+margin-left:2rem
+}
+
+/* the style i added at "trending posts" */
+.sugg{
+color:green;
+margin-left:2rem;
+font-size:small
+}
+
+/* the style i added at "trending posts" */
+.quest{
+color:rgb(206, 206, 49);
+font-size:small;
+margin-left:2rem;
+border-top:5rem
+}
+
+/* the style i added at "trending posts" */
+.Username{
+  margin-left:2rem;
+}
+
+/* the style i added at my share box */
+.share{
+  border: 1px solid black;
+  background-color: black;
+  border-radius: 10px;
+  width:65rem;
+  margin-left: 8rem;
+  margin-top:3rem;
+  margin-bottom:3rem
+}
+
+/* the style of the Facebook image in the sharebox */
+.Facebook{
+  height:2rem;
+  position:absolute;
+  left: 15rem;
+  top: 39.5rem;
+}
+
+/* the style of the Twitter image in the sharebox */
+.Twitter{
+  height:2rem;
+  position: absolute;
+  left: 17.5rem;
+  top: 39.5rem
+}
+
+/* the style of the Reddit image in the sharebox */
+.Reddit{
+  height:2rem;
+  position: absolute;
+  left: 20rem;
+  top: 39.5rem
+}
+
+/* the style of the Telegram image in the sharebox */
+.Telegram{
+  height:2rem;
+  width:2rem;
+  position:absolute;
+  left: 22.5rem;
+  top: 39.5rem
+}
+
+/* the style of the add image in the sharebox */
+.Add{
+  height:2rem;
+  position: absolute;
+  left: 25rem;
+  top: 39.5rem
+}
+
+/* added the style to span in share.jsx */
+span{
+  color: green;
+}
